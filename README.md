@@ -1,5 +1,6 @@
 # Stroke_Rehab_EEG
 Competing in https://www.br41n.io/Spring-School-2021 hackathon, "Stroke Rehab Data Analysis" project.
+
 Check out [my blog post](https://pietro-sillano.github.io/2021-07-16-EEG_Analysis/) on for more information
 
 # In details
