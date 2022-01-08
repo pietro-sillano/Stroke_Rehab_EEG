@@ -6,7 +6,7 @@ Check out on [my blog post](https://pietro-sillano.github.io/2021-07-16-EEG_Anal
 # In details
 -  In **preprocessing/** you will find Matlab scripts for preprocessing the EEG signals and organize them in batch and for patients.
 
-* **EEG_Analysis** is the notebook actually in Italian but Medium post is in english so check it out ;) 
+* **EEG_Analysis.ipynb** is the notebook actually in Italian but Medium post is in english so check it out ;) 
 
 * **Utils.py** is a python script with some Utils function for custom GridSearch and a Evaluation custom function.
 
