@@ -1,8 +1,8 @@
 # Stroke_Rehab_EEG
-
+Competing in https://www.br41n.io/Spring-School-2021 hackathon, "Stroke Rehab Data Analysis" project.
 Check out our Medium post on for more information
 
-
+# In details
 -  In **preprocessing/** you will find Matlab scripts for preprocessing the EEG signals and organize them in batch and for patients.
 
 * **EEG_Analysis** is the notebook actually in Italian but Medium post is in english so check it out ;) 
@@ -11,6 +11,7 @@ Check out our Medium post on for more information
 
 
 # Requirements
-We use the MNE python library for EEG Analysis and you can install it with simply:
+We use the MNE python library for EEG Analysis and you can install it with:
 
 `pip install mne`
+
